@@ -12,7 +12,7 @@ A sleek, mobile-first application for tracking daily milk delivery. Designed for
 - **Installable (APK)**: Native Android APK build available via GitHub Actions.
 - **Reports**: Export PDF and CSV reports for specific date ranges.
 - **WhatsApp Export**: Send formatted summaries directly to your milkman.
-
+ 
 ## Security & Safety 🛡️
 
 We take security seriously. Every release of **Milk Bahi** is automatically scanned by **VirusTotal** to ensure it is free from malware or viruses.
